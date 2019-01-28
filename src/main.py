@@ -10,7 +10,7 @@ import pickle
 
 
 class SceneManager:
-
+    #this is a test
     def __init__(self, state='menu'):
         tcod.console_set_custom_font(
             fontFile=const.FONT_PATH,
